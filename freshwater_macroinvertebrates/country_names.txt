@@ -1,0 +1,75 @@
+AUT	Austria
+AT	Austria
+HRV	Croatia
+HR	Croatia
+Cypres	Cyprus
+CYP	Cyprus
+CY	Cyprus
+EST	Estonia
+EE	Estonia
+FIN	Finland
+FI	Finland
+FRA	France
+FR	France
+GEO	Georgia
+GE	Georgia
+DEU	Germany
+DE	Germany
+GRC	Greece
+GR	Greece
+HUN	Hungary
+HU	Hungary
+ITA	Italy
+IT	Italy
+LTU	Lithuania
+Lithuniana	Lithuania
+Lithunia	Lithuania
+Litauen	Lithuania
+LT	Lithuania
+LUX	Luxembourg
+LU	Luxembourg
+MKD	Macedonia
+FYR Macedonia	Macedonia
+MK	Macedonia
+Mazedon	Macedonia
+NOR	Norway
+NO	Norway
+POL	Poland
+PL	Poland
+PRT	Portugal
+PT	Portugal
+SVK	Slovakia
+SK	Slovakia
+SVN	Slovenia
+SI	Slovenia
+ESP	Spain
+ES	Spain
+SWE	Sweden
+SE	Sweden
+The Netherlands	Netherlands
+NLD	Netherlands
+NL	Netherlands
+GBR	United Kingdom
+UK	United Kingdom
+GB	United Kingdom
+ALB	Albania
+AL	Albania
+BEL	Belgium
+BE	Belgium
+CHE	Switzerland
+Swiss	Switzerland
+CH	Switzerland
+ROU	Romania
+RO	Romania
+CZE	Czech Republic
+Czeck republic	Czech Republic
+Czech republic	Czech Republic
+Czechia	Czech Republic
+Czech	Czech Republic
+CZ	Czech Republic
+IRL	Ireland
+IE	Ireland
+DK	Denmark
+DNK	Denmark
+LV	Latvia
+LVA	Latvia
