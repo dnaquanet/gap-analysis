@@ -15,6 +15,8 @@ def load_files(folder):
 
 def make_new_file(cou_names,folder,foldern,file1):
     l = 0
+    if not os.path.exists(foldern):
+        os.makedirs(foldern)    
     out = open(foldern + "/" + file1, "w")
     for line in open(folder + "/" + file1):
         line2 = line.rstrip("\n").replace("?","").split("\t")
